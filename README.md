@@ -1,2 +1,2 @@
-this is my portfolio web side witch i create to show my protfolio
-And this is reame file
+This is my protfolio project.
+i made it by using simple HTML and CSS
